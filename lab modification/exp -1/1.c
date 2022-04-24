@@ -5,7 +5,6 @@ C = (F – 32) / 1.8.
 
 
 // #include <stdio.h>
-// #include <stdlib.h>
 #include "myh.h"
 
 void printline()
